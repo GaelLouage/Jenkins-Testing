@@ -10,7 +10,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            string ex = "Hello World!";
+            string ex = "Hello Wrld!";
             using (var sw = new StringWriter())
             {
                 Console.SetOut(sw);
