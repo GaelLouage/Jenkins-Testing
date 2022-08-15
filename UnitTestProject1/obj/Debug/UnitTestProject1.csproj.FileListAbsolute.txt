@@ -1,0 +1,18 @@
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Jenkins test.exe
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Jenkins test.pdb
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Jenkins test.exe.config
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\louag\source\repos\Jenkins test\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
